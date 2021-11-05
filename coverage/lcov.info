@@ -1,5 +1,5 @@
 TN:
-SF:D:\gitRepo\Sol_books\contracts\BookFactory.sol
+SF:/Users/stan/Documents/GitHub/hardhat/contracts/BookFactory.sol
 FN:21,addBook
 FNF:1
 FNH:1
@@ -13,7 +13,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:D:\gitRepo\Sol_books\contracts\BookLibrary.sol
+SF:/Users/stan/Documents/GitHub/hardhat/contracts/BookLibrary.sol
 FN:11,constructor
 FN:20,atLeastOneCopy
 FN:27,addressHasBook
@@ -106,7 +106,7 @@ BRF:16
 BRH:16
 end_of_record
 TN:
-SF:D:\gitRepo\Sol_books\contracts\LToken.sol
+SF:/Users/stan/Documents/GitHub/hardhat/contracts/LToken.sol
 FN:8,constructor
 FNF:1
 FNH:1
